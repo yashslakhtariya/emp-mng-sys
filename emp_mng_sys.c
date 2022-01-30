@@ -136,5 +136,5 @@ int main()
             exit(0); /// exit from the program
         }
     
-    return 0;
+    return 1;
 }
