@@ -12,4 +12,4 @@ Shell : fish 3.3.1
 
 Compiler : GCC 11.1.0
 
-**Note : Also working on TDM GCC 4.9.2 compiler on Dev C++ in Windows. On any other GCC compiler versions, if not working then report.**
+**Note : Also tested on TDM GCC 4.9.2 compiler on Dev C++ in Windows and it works perfectly. On any other GCC compiler versions, if not working then please report.**
