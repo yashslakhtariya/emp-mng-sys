@@ -22,4 +22,4 @@ Shell : fish/bash/sh/zsh (Others not tested)
 
 Compiler : GCC 11.0.0 
 
-**Note : Not working on TDM GCC 4.9.2 on Dev C++ or other editors using very old GCC Compiler because of conio.h and its functions. Please upgrade to latest GCC Compiler to ensure that it works.**
+**Note : Not working on TDM GCC 4.9.2 on Dev C++ or other editors using very old GCC Compiler because of _conio.h and its functions_. Please upgrade to latest GCC Compiler to ensure that it works.**
