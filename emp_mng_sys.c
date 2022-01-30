@@ -33,7 +33,7 @@ int main()
         fp = fopen("EMP.DAT","wb+");
         if(fp == NULL)
         {
-            printf("Connot open file");
+            printf("Cannot open file");
             exit(1);
         }
     }
